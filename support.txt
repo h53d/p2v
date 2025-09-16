@@ -1,0 +1,17 @@
+Purpose:
+'P2V: PNG JPG HEIC to SVG' is a lightweight image format converter - pixels to vectors tool, no registration, no uploads, no internet required. Everything works offline, locally, and privately.
+
+Features
+  - Easily convert images (PNG, JPG, HEIC, and more) to vector graphics in just a few clicks
+  - Export to popular vector formats: SVG and PDF
+  - Export to PNG, with a live preview of results on the background screen
+  - All processing is done locally on your device — nothing is uploaded or stored externally
+  - No ads, no tracking, no data collection — just a focused, efficient tool
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com
